@@ -1,0 +1,32 @@
+# Arquivos e pastas do Visual Studio
+.vs/
+bin/
+obj/
+
+# Dependências do NuGet
+/obj/
+/packages/
+
+# Arquivos temporários gerados durante a execução
+*.log
+*.exe
+*.dll
+*.pdb
+*.user
+
+# Arquivos de configuração local que podem conter informações sensíveis
+appsettings.Development.json
+launchSettings.json
+
+# Arquivos específicos do editor
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+*.sln.ide
+
+# Arquivos de build e logs
+[Tt]est[Rr]esult*/
+[Bb]in/
+[Oo]bj/

@@ -1,0 +1,2 @@
+para ocultar a chave simetrica e a string do banco de dados foi utilizar secrets do dotnet
+o arquivo deve ficar no computador -> C:\Users\Administrator\AppData\Roaming\Microsoft\UserSecrets\e99ed212-dbe4-4042-9056-f79edf0c04d5/secret.json

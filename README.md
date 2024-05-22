@@ -2,6 +2,8 @@
 
 Este repositório contém uma Web API desenvolvida em C# utilizando o framework ASP.NET. A API permite o cadastro de usuários em um banco de dados MySQL, oferece funcionalidades de login com geração de token JWT e autenticação de idade.
 
+![webapi](https://github.com/GustaChiroli/UsuariosApiIdentity/blob/main/webapi.png)
+
 ## Funcionalidades Principais
 
 - **Cadastro de Usuários**: Os usuários podem se cadastrar na plataforma fornecendo informações básicas, como nome, e-mail e data de nascimento. Esses dados são armazenados de forma segura em um banco de dados MySQL.
